@@ -1,0 +1,262 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+   
+}
+
+
+body{
+    font-family: 'Istok Web', sans-serif;
+  
+}
+
+
+
+
+/* header  */
+
+.header{
+    padding: 17px 0 12px 0;
+    max-width: 1440px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+}
+
+.navigation{
+    display: flex;
+    gap: 60px;
+    justify-content: space-between;
+}
+
+
+
+.navigation a{
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #37474F;
+}
+
+
+/* buenos aires  */
+
+.buenos-aires{
+    max-width: 1440px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 185px;
+}
+
+.background{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 70px;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.title h1{
+    font-family: Istok Web;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 92px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+
+.card{
+    margin-top: 70px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 116px;
+    justify-content: center;
+}
+
+
+/* reason  */
+
+.reason{
+    padding: 66px 0 150px 0;
+    display: flex;
+    flex-direction: column;
+    background-color: #BBDEFB ;
+}
+
+
+
+.food{
+    margin-top: 110px;
+    display: flex;
+    align-items: center;
+    gap: 125px;
+    margin-bottom: 130px;
+}
+
+.about-food{
+    display: block;
+    max-width: 569px;
+    width: 100%;
+
+}
+
+
+.about-food h2{
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 52px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+
+}
+
+
+.about-food h3{
+    margin-top: 20px;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 52px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+
+
+.bar{
+    display: flex;
+    align-items: center;
+    gap: 125px;
+}
+
+.about-bars{
+    display: block;
+    max-width: 569px;
+    width: 100%;
+}
+
+.about-bars h2{
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 52px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+
+.about-bars h3{
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 52px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+    margin-top: 20px;
+}
+
+.title1 h1{
+    margin-top: 201px;
+    font-family: K2D;
+    font-size: 65px;
+    font-weight: 400;
+    line-height: 83px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: black;
+    max-width: 1197px;
+    width: 100%;
+
+}
+
+
+/* social media  */
+
+.social-media{
+    margin-top: 155px;
+    display: flex;
+    flex-direction: column;
+}
+
+.social-media h1{
+    display: flex;
+    justify-content: center;
+    font-family: K2D;
+    font-size: 65px;
+    font-weight: 400;
+    line-height: 85px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #000000;
+
+}
+
+.icons{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 218px;
+}
+
+
+/* footer  */
+
+.footer{
+    padding: 95px 0;
+    background-color: #BBDEFB;
+    display: flex;
+    justify-content: center;
+    margin-top: 305px;
+}
+
+.btn{
+    padding: 10px 20px;
+    background-color: red;
+}
+
+
+
+section{
+    max-width: 1440px;
+    width: 100%;
+    background-color: blue;
+}
+
+
+
+.test{
+
+    margin-bottom: 50px;
+}
+
+
+.test2{
+    margin-bottom: 50px;
+}
+
+.test3{
+    background-color: red;
+}
+
+
+.test{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
